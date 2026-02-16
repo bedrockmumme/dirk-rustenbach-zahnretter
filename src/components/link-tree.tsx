@@ -94,7 +94,7 @@ const socialLinks: LinkTreeItemProps[] = [
     iconBg: "bg-blue-600",
     title: "Facebook",
     subtitle: "@dirkrustenbach",
-    href: "https://facebook.com/dirkrustenbach",
+    href: "https://www.facebook.com/profile.php?id=61586556925695",
   },
 ];
 
